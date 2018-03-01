@@ -9,3 +9,5 @@
 * Review system for users to leave feedback on their experiences with vendors
 * Vendors can edit their own page by submitting changes via form update
 * Vendors can upload pictures to their page
+
+![Project 3 Site Map](project3map)
