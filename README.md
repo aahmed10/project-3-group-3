@@ -10,4 +10,4 @@
 * Vendors can edit their own page by submitting changes via form update
 * Vendors can upload pictures to their page
 
-![Project 3 Site Map](project3map)
+![Project 3 Site Map](/project3map.png)
