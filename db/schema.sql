@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS user_db;
+DROP DATABASE IF EXISTS Comestible_Culture;
 
-CREATE DATABASE user_db;
+CREATE DATABASE Comestible_Culture;
 
-USE user_db;
+USE Comestible_Culture;
 
 CREATE TABLE users (
     id INT NOT NULL AUTO_INCREMENT,
@@ -18,5 +18,3 @@ CREATE TABLE reviews (
   review MEDIUMTEXT,
   PRIMARY KEY(id)
 );
-
-
