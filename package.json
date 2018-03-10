@@ -1,38 +1,23 @@
 {
-  "name": "project-2-group-2",
+  "name": "project-3-group-3",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "* Accounts for users and vendors * Messaging system for users and vendors to communicate * Map/Find Vendors page to display closest vendors to a chosen location * Page for each vendor to describe their wares and the locations where food will be sold * Review system for users to leave feedback on their experiences with vendors * Vendors can edit their own page by submitting changes via form update * Vendors can upload pictures to their page",
+  "main": "index.js",
   "scripts": {
-    "test": "mocha",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matlittle/project-2-group-2.git"
+    "url": "git+https://github.com/ConcernedCitizens/project-3-group-3.git"
   },
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/matlittle/project-2-group-2/issues"
+    "url": "https://github.com/ConcernedCitizens/project-3-group-3/issues"
   },
-  "homepage": "https://github.com/matlittle/project-2-group-2#readme",
+  "homepage": "https://github.com/ConcernedCitizens/project-3-group-3#readme",
   "dependencies": {
-    "bcrypt-nodejs": "0.0.3",
-    "body-parser": "^1.18.2",
-    "connect-flash": "^0.1.1",
-    "cookie-parser": "^1.4.3",
-    "ejs": "^2.5.7",
-    "express": "^4.16.2",
-    "express-session": "^1.15.6",
-    "heroku-ssl-redirect": "0.0.4",
-    "mysql": "^2.15.0",
-    "passport": "^0.4.0",
-    "passport-local": "^1.0.0"
-  },
-  "devDependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^5.0.0",
-    "nightmare": "^2.10.0"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   }
 }
