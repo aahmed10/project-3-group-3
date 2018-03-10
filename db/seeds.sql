@@ -1,1 +1,0 @@
-USE Comestible_Culture;
